@@ -1,0 +1,28 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments
+env/
+.venv/
+venv/
+ENV/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Results
+*.csv
+*.log
+*.out
+
+# Weights and Checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
